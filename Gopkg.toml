@@ -26,7 +26,7 @@
 
 
 [[constraint]]
-  branch = "nvd-json"
+  revision = "f397225f43694be586bdc460d6c1d7c21c783ad0"
   name = "github.com/kotakanbe/go-cve-dictionary"
 
 [prune]

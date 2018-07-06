@@ -233,7 +233,6 @@
   revision = "74609b86c936dff800c69ec89fcf4bc52d5f13a4"
 
 [[projects]]
-  branch = "nvd-json"
   name = "github.com/kotakanbe/go-cve-dictionary"
   packages = [
     "config",
@@ -466,6 +465,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "fa4c77932bef97caf0df762b61ac5c14a3c38a366f400f1d2d0590dc628902ce"
+  inputs-digest = "a74cae5c044163a2c68063ba8155684cd8786e9ac60410cc29352463de38756d"
   solver-name = "gps-cdcl"
   solver-version = 1
