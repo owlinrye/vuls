@@ -249,7 +249,6 @@
   version = "v0.1.0"
 
 [[projects]]
-  branch = "master"
   name = "github.com/kotakanbe/goval-dictionary"
   packages = [
     "config",
@@ -465,6 +464,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "a74cae5c044163a2c68063ba8155684cd8786e9ac60410cc29352463de38756d"
+  inputs-digest = "59e47e2fd57d65742abc98fddcd0733e78c9a7ffbfed7f3de4e6cd56bdd107bb"
   solver-name = "gps-cdcl"
   solver-version = 1

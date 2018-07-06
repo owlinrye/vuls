@@ -29,6 +29,10 @@
   revision = "f397225f43694be586bdc460d6c1d7c21c783ad0"
   name = "github.com/kotakanbe/go-cve-dictionary"
 
+[[constraint]]
+  revision = "4358b6b3f4dd9c53a65b4263e9631d1f43dfcead"
+  name = "github.com/kotakanbe/goval-dictionary"
+
 [prune]
   go-tests = true
   unused-packages = true
